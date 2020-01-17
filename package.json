@@ -1,0 +1,22 @@
+{
+  "name": "ts-practise",
+  "version": "1.0.0",
+  "description": "Practising Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshcse2991/ts-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshcse2991/ts-practise/issues"
+  },
+  "homepage": "https://github.com/ganeshcse2991/ts-practise#readme",
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
+}
